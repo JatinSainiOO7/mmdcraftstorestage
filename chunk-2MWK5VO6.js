@@ -1,0 +1,1 @@
+import{K as a,da as e}from"./chunk-ZIL4O3MT.js";var o=class n{searchOpen=e(!1);menuOpen=e(!1);buyBarShown=e(!1);account=e(null);static \u0275fac=function(r){return new(r||n)};static \u0275prov=a({token:n,factory:n.\u0275fac,providedIn:"root"})};export{o as a};
