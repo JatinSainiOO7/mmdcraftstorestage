@@ -1,1 +1,0 @@
-import{K as a,da as e}from"./chunk-PRCXD4HE.js";var o=class n{searchOpen=e(!1);menuOpen=e(!1);buyBarShown=e(!1);account=e(null);googlePay=e(!1);static \u0275fac=function(r){return new(r||n)};static \u0275prov=a({token:n,factory:n.\u0275fac,providedIn:"root"})};export{o as a};
